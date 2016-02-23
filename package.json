@@ -1,6 +1,6 @@
 {
   "name": "ee-util",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "this is all common js",
   "main": "index.js",
   "scripts": {
